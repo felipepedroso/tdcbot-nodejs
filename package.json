@@ -1,0 +1,16 @@
+{
+  "name": "tdcbot",
+  "version": "1.0.0",
+  "description": "This is a simple bot to showcase the Bot Builder SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Pedroso (felipe.pedroso@live.com)",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "request": "^2.81.0",
+    "restify": "^4.3.0"
+  }
+}
